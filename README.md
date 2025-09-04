@@ -1,6 +1,7 @@
 # Classes-and-objects
 Aim: To study and implement classes and objects in C++
 
+
 #Program a: This C++ program defines a class named cube that represents a 3D object with three dimensions: height, width, and length. It calculates the volume of the cube and displays it using the formula: Volume=height×width×length. In the main() function, an object c1 of class cube is created, and the volume is computed based on the default values assigned to the dimensions.
 
 Algorithm:
